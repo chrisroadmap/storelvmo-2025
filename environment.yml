@@ -1,0 +1,10 @@
+name: yuan-tcre
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - openpyxl
+  - pandas
+  - scipy
